@@ -2,7 +2,6 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning C++ and Unity
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a446187673)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a446187673&show_icons=true&theme=tokyonight)
 
 <!---
